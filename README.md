@@ -19,3 +19,7 @@ Usage example: processing/ca_mera_bitmap/ca_mera_bitmap.pde
 Update 2022-04-19: Batch and video processors
 ===
 
+Sketches added:
+
+processing/ca_mera_batch_processor/ca_mera_batch_processor.pde
+processing/ca_mera_video_processor/ca_mera_video_processor.pde
