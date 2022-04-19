@@ -15,3 +15,7 @@ Installation:  copy processing/library/ca_mera to your local Processing librarie
                (sth. like "~/Documents/Processing/libraries") and restart Processing
                
 Usage example: processing/ca_mera_bitmap/ca_mera_bitmap.pde
+
+Update 2022-04-19: Batch and video processors
+===
+
